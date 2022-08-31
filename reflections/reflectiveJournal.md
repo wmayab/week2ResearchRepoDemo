@@ -4,8 +4,6 @@
 
 ### What is Scratch?
 
-## scatch is the easy and fun programing introduction
-
 ### What is visual programming?
 
 ### What are some programming principles that you have discovered?
